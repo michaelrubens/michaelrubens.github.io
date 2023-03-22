@@ -4,12 +4,12 @@ Welcome to my website. I work at the intersection of industrial organization (pr
 
 My research agenda focuses on understanding the causes, consequences, and identification of oligopsony power.
 
-[Curriculum Vitae](/_files/cv_michaelrubens.pdf)
+[Curriculum Vitae](/files/cv_michaelrubens.pdf)
 
 Working Papers
 ======
 
-**[Colluding Against Workers](/_files/Colluding_against_workers_round1.pdf)**  (with Vincent Delabastita)
+**[Colluding Against Workers](/files/Colluding_against_workers_round1.pdf)**  (with Vincent Delabastita)
 
 March 2023 | _Revision requested, Journal of Political Economy_
 
@@ -17,7 +17,7 @@ March 2023 | _Revision requested, Journal of Political Economy_
 
 
 
-**[Oligopsony Power and Factor-Biased Technology Adoption](/_files/cv_michaelrubens.pdf)**
+**[Oligopsony Power and Factor-Biased Technology Adoption](/files/cv_michaelrubens.pdf)**
 
 October 2022 | Latest version | NBER working paper
 
