@@ -34,7 +34,8 @@ Publications
 
 March 2023 | _RAND Journal of Economics, 54(1), pp. 165-186_
 
- 
+[Online Appendix](/files/mining_schools_appendix.pdf)
+
 
 
 
