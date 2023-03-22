@@ -17,7 +17,7 @@ March 2023 | _Revision requested, Journal of Political Economy_
 
 
 
-**[Oligopsony Power and Factor-Biased Technology Adoption](/files/Techadoption_round1.pdf)**
+**[Oligopsony Power and Factor-Biased Technology Adoption](/files/Techadoption_paper.pdf)**
 
 October 2022 | Latest version | NBER working paper
 
