@@ -17,12 +17,12 @@ March 2023 | _Revision requested, Journal of Political Economy_
 
 
 
-**[Oligopsony Power and Factor-Biased Technology Adoption](/files/cv_michaelrubens.pdf)**
+**[Oligopsony Power and Factor-Biased Technology Adoption](/files/Techadoption_round1.pdf)**
 
 October 2022 | Latest version | NBER working paper
 
 
-**[Market Structure, Oligopsony Power, and Productivity](/_pages/cv_michaelrubens.pdf)**
+**[Market Structure, Oligopsony Power, and Productivity](/files/AER_2023_0383_main.pdf)**
 
 _Conditionally accepted, American Economic Review_
 
