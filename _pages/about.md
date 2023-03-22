@@ -7,6 +7,43 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome to my website. I work at the intersection of industrial organization (primary field) and labor economics. 
+
+My research agenda focuses on understanding the causes, consequences, and identification of oligopsony power.
+
+[Curriculum Vitae](/files/cv_michaelrubens.pdf)
+
+Working Papers
+======
+
+**[Colluding Against Workers](/files/Colluding_against_workers_round1.pdf)**  (with Vincent Delabastita)
+
+January 2023 | _Revision requested, Journal of Political Economy_
+
+
+**[Oligopsony Power and Factor-Biased Technology Adoption](/files/Techadoption_paper.pdf)**
+
+October 2022 |   
+
+
+**[Market Structure, Oligopsony Power, and Productivity](/files/AER_2023_0383_main.pdf)**
+
+March 2023 | _Conditionally accepted, American Economic Review_
+
+[Online Appendix](/files/AER_2023_0383_appendix.pdf)
+
+
+
+Publications
+======
+
+**[Management, Productivity, and Technology Choices: Evidence from U.S. Mining Schools](https://onlinelibrary.wiley.com/doi/10.1111/1756-2171.12434)**
+
+March 2023 | _RAND Journal of Economics, 54(1), pp. 165-186_
+
+[Online Appendix](/files/mining_schools_online_appendix.pdf)
+
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
