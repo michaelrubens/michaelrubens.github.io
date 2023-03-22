@@ -18,7 +18,7 @@ Working Papers
 
 **[Colluding Against Workers](/files/Colluding_against_workers_round1.pdf)**  (with Vincent Delabastita)
 
-January 2023   _Revision requested, Journal of Political Economy_
+January 2023  -- _Revision requested, Journal of Political Economy_
 
 **[Oligopsony Power and Factor-Biased Technology Adoption](/files/Techadoption_paper.pdf)**
 
@@ -27,7 +27,7 @@ October 2022  
 
 **[Market Structure, Oligopsony Power, and Productivity](/files/AER_2023_0383_main.pdf)**
 
-March 2023   _Conditionally accepted, American Economic Review_
+March 2023  -- _Conditionally accepted, American Economic Review_
 
 [Online Appendix](/files/AER_2023_0383_appendix.pdf)
 
