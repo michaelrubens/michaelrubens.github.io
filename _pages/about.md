@@ -30,7 +30,7 @@ March 2023 | _Conditionally accepted, American Economic Review_
 Publications
 ======
 
-**[Management, Productivity, and Technology Choices: Evidence from U.S. Mining Schools](/_pages/cv_michaelrubens.pdf)**
+**[Management, Productivity, and Technology Choices: Evidence from U.S. Mining Schools](https://onlinelibrary.wiley.com/doi/10.1111/1756-2171.12434)**
 
 March 2023 | _RAND Journal of Economics, 54(1), pp. 165-186_
 
