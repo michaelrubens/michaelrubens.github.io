@@ -11,9 +11,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-
-Teaching
-======
+ 
 
 Office hours: please make an appointment [here](https://rubens-1.youcanbook.me/) 
  
