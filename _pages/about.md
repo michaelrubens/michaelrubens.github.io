@@ -16,7 +16,7 @@ My research agenda focuses on understanding the causes, consequences, and identi
 Working Papers
 ======
 
-**[Colluding Against Workers](/files/Colluding_against_workers_round1.pdf)**  (with Vincent Delabastita)
+**[Colluding Against Workers](/files/Colluding_against_workers_round1.pdf)**  (with [Vincent Delabastita](https://sites.google.com/view/vincentdelabastita/home))
 
 January 2023  --  _Revision requested, Journal of Political Economy_
 
