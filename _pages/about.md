@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my website. I work at the intersection of industrial organization (primary field) and labor economics. 
+Welcome to my website. I work at the intersection of industrial organization and labor economics. 
 
 My research agenda focuses on understanding the causes, consequences, and identification of oligopsony power.
 
