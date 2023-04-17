@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome to my website. I work at the intersection of industrial organization and labor economics. 
 
-My research agenda focuses on understanding the causes, consequences, and identification of oligopsony power.
+My research agenda focuses on understanding imperfect factor market competition, productivity growth, and technological change.
 
 [Curriculum Vitae](/files/cv_michaelrubens.pdf)
 
