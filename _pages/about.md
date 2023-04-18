@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my website. I work at the intersection of industrial organization and labor economics. 
+Welcome to my website. I work in the fields of industrial organization and labor economics. 
 
 My research agenda focuses on understanding imperfect factor market competition, productivity growth, and technological change.
 
