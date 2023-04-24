@@ -11,7 +11,7 @@ Welcome to my website. I work in the fields of industrial organization and labor
 
 My research agenda focuses on understanding imperfect factor market competition, productivity growth, and technological change.
 
-[Curriculum Vitae](/files/cv_michaelrubens.pdf)
+[Curriculum Vitae](/files/cv_michaelrubens.pdf)   [E-mail](rubens.econ@ucla.edu)
 
 Working Papers
 ======
