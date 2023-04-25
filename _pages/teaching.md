@@ -15,7 +15,7 @@ Office hours: please make an appointment [here](https://calendly.com/michael-a-r
 
 **Advising**
 
-[Guidelines for Ph.D. students](/files/guidelines_graduate.pdf) 
+[Guidelines for Ph.D. students](/files/guidelines_graduate.pdf)
 
 **Current courses**
 
