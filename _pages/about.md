@@ -44,4 +44,9 @@ March 2023 -- _RAND Journal of Economics, 54(1), pp. 165-186_
 [Online Appendix](/files/mining_schools_online_appendix.pdf)
 
 
- 
+
+In Progress
+======
+
+**[Allocative Efficiency in Bilateral Oligopoly]** (with Mert Demirer and Antonio Martner Sota)
+
