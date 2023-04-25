@@ -21,7 +21,8 @@ Office hours: please make an appointment [here](https://calendly.com/michael-a-r
 
 _UCLA:_
 
-ECON 171: Industrial Organization: Policy and Regulation -- Spring 2023   [Syllabus](/files/Econ171_syllabus.pdf)
+ECON 171: Industrial Organization: Policy and Regulation -- Spring 2023  
+[Syllabus](/files/Econ171_syllabus.pdf)
 
 ECON 272A: Topics in Industrial Organization -- Spring 2022, 2023
 
