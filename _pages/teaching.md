@@ -33,5 +33,4 @@ _KU Leuven:_
 
 [Dynamic Methods](https://onderwijsaanbod.kuleuven.be/syllabi/e/D0C16CE.htm#activetab=doelstellingen_idp746912)    (T.A. for Jo Van Biesebroeck)  -- Fall 2015, 2016, 2018
 
-$${\color{white}[Guidelines for Ph.D. students](/files/guidelines_graduate.pdf)) }$$
-
+ 
