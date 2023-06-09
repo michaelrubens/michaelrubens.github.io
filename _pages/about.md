@@ -28,7 +28,7 @@ January 2023 
 
 **[Market Structure, Oligopsony Power, and Productivity](/files/AER_2021_0383_main.pdf)**
 
-March 2023  --  _Conditionally accepted, **American Economic Review**_
+March 2023  --  _Accepted, **American Economic Review**_
 
 [Online Appendix](/files/AER_2021_0383_appendix.pdf)
 
