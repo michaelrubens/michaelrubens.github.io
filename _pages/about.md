@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome to my website. I work in the fields of industrial organization and labor economics. 
 
-My research agenda focuses on understanding the drivers and consequences of imperfect factor market competition and monopsony/oligopsony power. I am also interested in vertical relations more in general.
+My research agenda focuses on understanding the drivers and consequences of imperfect factor market competition and monopsony/oligopsony power. I also have a more general interest in vertical relations.
 
 [Curriculum Vitae](/files/cv_michaelrubens.pdf)  
 [E-mail](mailto:rubens@econ.ucla.edu)
