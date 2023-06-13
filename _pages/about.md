@@ -26,16 +26,15 @@ January 2023  --  _Revision requested, **Journal of Political Economy**_
 January 2023   
 
 
+Publications
+======
+
 **[Market Structure, Oligopsony Power, and Productivity](/files/AER_2021_0383_main.pdf)**
 
 March 2023  --  _Forthcoming, **American Economic Review**_
 
 [Online Appendix](/files/AER_2021_0383_appendix.pdf)
 
-
-
-Publications
-======
 
 **[Management, Productivity, and Technology Choices: Evidence from U.S. Mining Schools](https://onlinelibrary.wiley.com/doi/10.1111/1756-2171.12434)**
 
