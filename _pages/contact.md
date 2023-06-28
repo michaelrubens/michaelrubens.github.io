@@ -21,4 +21,4 @@ Los Angeles, CA 90095
 
 
 
-**E-mail:** [E-mail](mailto:rubens@econ.ucla.edu)
+ **[E-mail](mailto:rubens@econ.ucla.edu)**
