@@ -86,8 +86,8 @@ author:
   location         : #"Los Angeles, CA"
   employer         :
   pubmed           :  
-  googlescholar    : #"https://scholar.google.be/scholar?hl=en&as_sdt=0%2C5&q=michael+rubens+econ&btnG=&oq=michael+rubens"
-  email            : #"rubens@econ.ucla.edu"
+  googlescholar    : "https://scholar.google.be/scholar?hl=en&as_sdt=0%2C5&q=michael+rubens+econ&btnG=&oq=michael+rubens"
+  email            : "rubens@econ.ucla.edu"
   researchgate     :   
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"michaelrubens"
+  github           : "michaelrubens"
   google_plus      :
   keybase          :
   instagram        :
