@@ -13,8 +13,10 @@ author_profile: true
 
 **Office**
 
-Bunche Hall, Office 8345
+Bunche Hall, Office 8345 
+
 315 Portola Plaza
+
 Los Angeles, CA 90095
 
 **E-mail**
