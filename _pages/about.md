@@ -9,7 +9,7 @@ redirect_from:
 ---
 **Michael Rubens** is an Assistant Professor of Economics at UCLA. He works in the fields of industrial organization and labor economics. 
 
-His research agenda focuses on market power and vertical relations, with a focus on understanding the drivers, consequences, and measurement of monopsony and oligopsony power. 
+His research agenda focuses on market power and vertical relations, with an aim to better understand the drivers, consequences, and measurement of monopsony and oligopsony power. 
 
 [Curriculum Vitae](/files/cv_michaelrubens.pdf)  
 [E-mail](mailto:rubens@econ.ucla.edu)
