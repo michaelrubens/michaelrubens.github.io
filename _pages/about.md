@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my website. I work in the fields of industrial organization and labor economics. 
+**Michael Rubens** is an Assistant Professor of Economics at UCLA. He works in the fields of industrial organization and labor economics. 
 
-My research agenda focuses on understanding the drivers and consequences of imperfect factor market competition and monopsony/oligopsony power. I also have a more general interest in vertical relations.
+His research agenda focuses on market power in vertical relations, with a focus on understanding the drivers, consequences, and measurement of monopsony and oligopsony power. 
 
 [Curriculum Vitae](/files/cv_michaelrubens.pdf)  
 [E-mail](mailto:rubens@econ.ucla.edu)
