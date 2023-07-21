@@ -47,5 +47,5 @@ March 2023 -- _**RAND Journal of Economics**, 54(1), pp. 165-186_
 In Progress
 ======
 
-**Allocative Efficiency in Bilateral Oligopoly** (with [Mert Demirer](https://www.mertdemirer.com/) and Antonio Martner Sota)
+**Welfare Effects of Buyer and Seller Power** (with [Mert Demirer](https://www.mertdemirer.com/) and Antonio Martner Sota)
 
