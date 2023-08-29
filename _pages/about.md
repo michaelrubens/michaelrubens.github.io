@@ -31,7 +31,7 @@ Publications
 
 (2) **[Market Structure, Oligopsony Power, and Productivity](/files/AER_2021_0383_main.pdf)**
 
-September 2023  --  _Forthcoming, **American Economic Review**_, _113(9)_
+September 2023  --  _**American Economic Review**_, _113(9) pp.2382-2410_
 
 [Online Appendix](/files/AER_2021_0383_appendix.pdf)
 
