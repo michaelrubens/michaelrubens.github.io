@@ -17,9 +17,9 @@ His research agenda focuses on market power in vertical relations, and aims to b
 Working Papers
 ======
 
-(4) **[Colluding Against Workers](/files/Colluding_against_workers_round1.pdf)**  (with [Vincent Delabastita](https://sites.google.com/view/vincentdelabastita/home))
+(4) **[Colluding Against Workers](/files/delabastita_rubens_sept2023.pdf)**  (with [Vincent Delabastita](https://sites.google.com/view/vincentdelabastita/home))
 
-January 2023  --  _Revision requested, **Journal of Political Economy**_
+September 2023  --  _Revision requested, **Journal of Political Economy**_
 
 (3) **[Oligopsony Power and Factor-Biased Technology Adoption](/files/Techadoption_paper.pdf)**
 
