@@ -49,3 +49,4 @@ In Progress
 
 **Welfare Effects of Buyer and Seller Power** (with [Mert Demirer](https://www.mertdemirer.com/) and Antonio Martner Sota)
 
+**Exploiting or Augmenting Labor?** (with Yingjie Wu and [Mingzhi Xu](https://www.mingzhixu.com/))
