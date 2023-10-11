@@ -31,10 +31,10 @@ ECON 171: Industrial Organization: Policy and Regulation -- Spring 2023
 
 _TSE:_
 
-[Empirical Industrial Organization](https://www.tse-fr.eu/sites/default/files/TSE/ecole/doc/syllabi/2021-2022/m1_s2_empirical_industrial_organization_reynaert.pdf) -- Winter 2022 
+Empirical Industrial Organization -- Winter 2022 
 
 _KU Leuven:_
 
-[Dynamic Methods](https://onderwijsaanbod.kuleuven.be/syllabi/e/D0C16CE.htm#activetab=doelstellingen_idp746912)    (T.A. for Jo Van Biesebroeck)  -- Fall 2015, 2016, 2018
+Dynamic Methods    (T.A. for Jo Van Biesebroeck)  -- Fall 2015, 2016, 2018
 
  
