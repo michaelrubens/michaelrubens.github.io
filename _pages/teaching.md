@@ -21,7 +21,7 @@ _UCLA:_
 
 ECON 106P: Pricing and Strategy -- Spring 2024
 
-ECON 272A: Topics in Industrial Organization -- Spring 2022, 2023, 2024
+ECON 272A: Topics in Industrial Organization -- Spring 2022 - 2024
 
 **Past courses**
  
