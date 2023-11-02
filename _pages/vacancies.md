@@ -10,6 +10,7 @@ author_profile: true
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
 **Predocs**
 
 Mert Demirer and I have a full-time predoc position available, please apply [here](https://apply.interfolio.com/135743) 
