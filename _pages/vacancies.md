@@ -21,5 +21,5 @@ I occasionally have job openings for part-time research assistants  for UCLA und
 
 **UCLA graduate students**
  
-I occasionally have job openings for part-time research assistants for UCLA graduate students. If interested, I recommend you to take my Ph.D. class (ECON272A) and reach out to me afterwards. 
+I occasionally have job openings for part-time research assistants for UCLA graduate students. If interested, I recommend you take my Ph.D. class (ECON272A) and reach out to me afterwards. 
 
