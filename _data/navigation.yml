@@ -11,6 +11,10 @@ main:
 
   - title: "Contact"
     url: /contact/    
+
+  - title: "Vacancies"
+    url: /vacancies/    
+
     
 #  - title: "Portfolio"
  #   url: /portfolio/
