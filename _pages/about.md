@@ -23,7 +23,7 @@ September 2023  --  _Revise & resubmit, **Journal of Political Economy**_
 
 (3) **[Oligopsony Power and Factor-Biased Technology Adoption](/files/Techadoption_paper.pdf)**
 
-January 2023   
+January 2023   -- _In revision_
 
 
 Publications
