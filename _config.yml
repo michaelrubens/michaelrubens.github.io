@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : #"Michael Rubens"
-  avatar           : "pic_miki_bright.png" # "ARA_4459_small.JPG" #"pic_miki_square.png"
+  avatar           : "pic_miki_square.png" #"ARA_4459_small.JPG" #"pic_miki_square.png"
   bio              : #"Assistant Professor of Economics, UCLA"
   location         : #"Los Angeles, CA"
   employer         :
