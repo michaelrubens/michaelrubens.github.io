@@ -36,9 +36,9 @@ September 2023  --  _**American Economic Review**_, _113(9) pp. 2382-2410_
 [Online Appendix](/files/AER_2021_0383_appendix.pdf)  >>   [Replication Package](https://www.openicpsr.org/openicpsr/project/186041/version/V1/view) 
 
 
-(1) **[Management, Productivity, and Technology Choices: Evidence from U.S. Mining Schools](https://onlinelibrary.wiley.com/doi/10.1111/1756-2171.12434)**
+(1) **[Management, Productivity, and Technology Choices: Evidence from U.S. Mining Schools](/files/RJE MS202112696 final.pdf)**
 
-March 2023 -- _**RAND Journal of Economics**, 54(1), pp. 165-186_
+March 2023 -- _**RAND Journal of Economics**, 54(1), pp. 165-186_ 
 
 [Online Appendix](/files/mining_schools_online_appendix.pdf) >>  [Replication Package](https://github.com/michaelrubens/miningschools)
 
