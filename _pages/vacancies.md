@@ -17,7 +17,7 @@ Mert Demirer and I have a full-time predoc position available, please apply [her
 
 **UCLA undergraduates:**
 
-I occasionally have job openings for part-time research assistants  for UCLA undergraduate students. Feel free to send me your resume and transcripts by email if interested. Mention 'R.A. application (name)' as the email subject.  I do not have the time to answer all inquiries but will draw from these applications when filling positions. 
+I occasionally have job openings for part-time research assistants  for UCLA undergraduate students. Feel free to send me your resume and transcripts by email if interested. Mention 'R.A. application (name)' as the email subject.  
 
 **UCLA graduate students:**
  
