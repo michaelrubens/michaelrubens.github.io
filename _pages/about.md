@@ -17,7 +17,7 @@ His research agenda aims to increase the understanding of the drivers and conseq
 Working Papers
 ======
 
-(4) **[Colluding Against Workers](/files/delabastita_rubens_sept2023.pdf)**  (with [Vincent Delabastita](https://sites.google.com/view/vincentdelabastita/home))
+(4) **[Colluding Against Workers](/files/delabastita_rubens_jan2024.pdf)**  (with [Vincent Delabastita](https://sites.google.com/view/vincentdelabastita/home))
 
 January 2024  --  _Revise & resubmit (2nd round), **Journal of Political Economy**_
 
