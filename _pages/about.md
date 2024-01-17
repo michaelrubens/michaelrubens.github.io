@@ -19,7 +19,7 @@ Working Papers
 
 (4) **[Colluding Against Workers](/files/delabastita_rubens_sept2023.pdf)**  (with [Vincent Delabastita](https://sites.google.com/view/vincentdelabastita/home))
 
-September 2023  --  _Revise & resubmit (2nd round), **Journal of Political Economy**_
+January 2024  --  _Revise & resubmit (2nd round), **Journal of Political Economy**_
 
 (3) **[Oligopsony Power and Factor-Biased Technology Adoption](/files/Techadoption_paper.pdf)**
 
