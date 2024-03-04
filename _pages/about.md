@@ -23,7 +23,7 @@ February 2024  --  _Revise & resubmit (2nd round), **Journal of Political Econom
 
 (3) **[Labor Market Power and Factor-Biased Technology Adoption](/files/Techadoption_paper.pdf)** 
 
-January 2023   -- _In revision_
+March 2024    
 
 
 Publications
