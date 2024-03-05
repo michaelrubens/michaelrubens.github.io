@@ -11,10 +11,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-**Predocs:**
-
-Mert Demirer and I have a full-time predoc position available, please apply [here](https://apply.interfolio.com/135743) 
-
 **UCLA undergraduates:**
 
 I occasionally have job openings for part-time research assistants  for UCLA undergraduate students. Feel free to send me your resume and transcripts by email if interested. Mention 'R.A. application (name)' as the email subject.  
