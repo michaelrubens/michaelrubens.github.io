@@ -17,9 +17,13 @@ His research agenda aims to increase the understanding of the drivers and conseq
 Working Papers
 ======
 
+(5) **[Exploiting or Augmenting Labor?](/files/Factorbias_paper.pdf)**  (with Yingjie Wu and [Mingzhi Xu](https://www.mingzhixu.com/))
+
+May 2024
+
 (4) **[Colluding Against Workers](/files/delabastita_rubens_feb2024.pdf)**  (with [Vincent Delabastita](https://sites.google.com/view/vincentdelabastita/home))
 
-February 2024  --  _Revise & resubmit (2nd round), **Journal of Political Economy**_
+February 2024  --  _Revised & resubmitted, **Journal of Political Economy**_
 
 (3) **[Labor Market Power and Factor-Biased Technology Adoption](/files/Techadoption_paper.pdf)** 
 
@@ -47,8 +51,6 @@ In Progress
 ======
 
 Welfare Effects of Buyer and Seller Power (with [Mert Demirer](https://www.mertdemirer.com/) and Antonio Martner Sota)
-
-Exploiting or Augmenting Labor? (with Yingjie Wu and [Mingzhi Xu](https://www.mingzhixu.com/))
 
 Mergers, Collusion, and Labor Market Power: Theory and Evidence from the United States (with [Bradley Setzler](https://www.bradleysetzler.com/) and [Chen Yeh](https://sites.google.com/site/chenyeh/) )
 
