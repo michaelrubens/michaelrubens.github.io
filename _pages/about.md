@@ -19,7 +19,7 @@ Working Papers
 
 (5) **[Exploiting or Augmenting Labor?](/files/Rubens_Wu_Xu_2024.pdf)**  (with Yingjie Wu and [Mingzhi Xu](https://www.mingzhixu.com/))
 
-May 2024
+May 2024 --  _Submitted_
 
 (4) **[Colluding Against Workers](/files/delabastita_rubens_2024.pdf)**  (with [Vincent Delabastita](https://sites.google.com/view/vincentdelabastita/home))
 
