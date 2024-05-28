@@ -52,6 +52,6 @@ In Progress
 
 Welfare Effects of Buyer and Seller Power (with [Mert Demirer](https://www.mertdemirer.com/) and [Antonio Martner Sota](https://amartner.github.io/))
 
-Mergers, Collusion, and Labor Market Power: Theory and Evidence from the United States (with [Bradley Setzler](https://www.bradleysetzler.com/) and [Chen Yeh](https://sites.google.com/site/chenyeh/) )
+Collusion in the U.S. Labor Market (with [Bradley Setzler](https://www.bradleysetzler.com/) and [Chen Yeh](https://sites.google.com/site/chenyeh/) )
 
 
