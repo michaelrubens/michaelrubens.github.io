@@ -27,7 +27,7 @@ April 2024  --  _Revised & resubmitted, **Journal of Political Economy**_
 
 (3) **[Labor Market Power and Factor-Biased Technology Adoption](/files/Techadoption_paper.pdf)** 
 
-March 2024    
+June 2024    
 
 
 Publications
