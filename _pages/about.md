@@ -21,14 +21,13 @@ Working Papers
 
 May 2024 
 
-(4) **[Colluding Against Workers](/files/delabastita_rubens_2024.pdf)**  (with [Vincent Delabastita](https://sites.google.com/view/vincentdelabastita/home))
-
-April 2024  --  _Revised & resubmitted, **Journal of Political Economy**_
-
-(3) **[Labor Market Power and Factor-Biased Technology Adoption](/files/Techadoption_paper.pdf)** 
+(4) **[Labor Market Power and Factor-Biased Technology Adoption](/files/Techadoption_paper.pdf)** 
 
 July 2024    
 
+(3) **[Colluding Against Workers](/files/delabastita_rubens_2024.pdf)**  (with [Vincent Delabastita](https://sites.google.com/view/vincentdelabastita/home))
+
+April 2024  --  _Revise & Resubmit, **Journal of Political Economy**_
 
 Publications
 ======
