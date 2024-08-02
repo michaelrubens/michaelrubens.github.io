@@ -27,7 +27,7 @@ July 2024 
 
 (3) **[Colluding Against Workers](/files/delabastita_rubens_2024.pdf)**  (with [Vincent Delabastita](https://sites.google.com/view/vincentdelabastita/home))
 
-April 2024  --  _Revise & Resubmit, **Journal of Political Economy**_
+April 2024  --  _Accepted, **Journal of Political Economy**_
 
 Publications
 ======
