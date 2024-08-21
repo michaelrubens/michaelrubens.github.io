@@ -25,12 +25,13 @@ May 2024
 
 July 2024    
 
+
+Published and Accepted Papers
+======
+
 (3) **[Colluding Against Workers](/files/delabastita_rubens_2024.pdf)**  (with [Vincent Delabastita](https://sites.google.com/view/vincentdelabastita/home))
 
 July 2024  --  _Accepted, **Journal of Political Economy**_
-
-Publications
-======
 
 (2) **[Market Structure, Oligopsony Power, and Productivity](/files/AER_2021_0383_main.pdf)**
 
