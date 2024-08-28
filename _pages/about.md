@@ -33,7 +33,7 @@ Published and Accepted Papers
 
 July 2024  --  _Accepted, **Journal of Political Economy**_
 
-[Online Appendix](/files/JPE_20230028_APPENDIX.pdf)  >>   [Replication Package](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FFG1JSE&version=DRAFT)  
+[Online Appendix](/files/JPE_20230028_APPENDIX.pdf)       
 
 
 (2) **[Market Structure, Oligopsony Power, and Productivity](/files/AER_2021_0383_main.pdf)**
