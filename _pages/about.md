@@ -29,9 +29,12 @@ July 2024 
 Published and Accepted Papers
 ======
 
-(3) **[Colluding Against Workers](/files/delabastita_rubens_2024.pdf)**  (with [Vincent Delabastita](https://sites.google.com/view/vincentdelabastita/home))
+(3) **[Colluding Against Workers](/files/JPE_20230028_accepted.pdf)**  (with [Vincent Delabastita](https://sites.google.com/view/vincentdelabastita/home))
 
 July 2024  --  _Accepted, **Journal of Political Economy**_
+
+[Online Appendix](/files/JPE_20230028_APPENDIX.pdf)  >>   [Replication Package][(https://www.openicpsr.org/openicpsr/project/186041/version/V1/view)](https://doi.org/10.7910/DVN/FG1JSE)  
+
 
 (2) **[Market Structure, Oligopsony Power, and Productivity](/files/AER_2021_0383_main.pdf)**
 
