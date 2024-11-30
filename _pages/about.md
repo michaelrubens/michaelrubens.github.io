@@ -57,4 +57,7 @@ Welfare Effects of Buyer and Seller Power (with [Mert Demirer](https://www.mertd
 
 Collusion in the U.S. Labor Market (with [Bradley Setzler](https://www.bradleysetzler.com/) and [Chen Yeh](https://sites.google.com/site/chenyeh/) )
 
+Estimating Factor Price Markdowns using Production Models (with Yingjie Wu and [Mingzhi Xu](https://www.mingzhixu.com/))
+
+
 
