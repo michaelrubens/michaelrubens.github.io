@@ -53,7 +53,7 @@ March 2023 -- _**RAND Journal of Economics**, 54(1), pp. 165-186_
 In Progress
 ======
 
-Welfare Effects of Buyer and Seller Power (with [Mert Demirer](https://www.mertdemirer.com/)  
+Welfare Effects of Buyer and Seller Power (with [Mert Demirer](https://www.mertdemirer.com/))
 
 Collusion in the U.S. Labor Market (with [Bradley Setzler](https://www.bradleysetzler.com/) and [Chen Yeh](https://sites.google.com/site/chenyeh/) )
 
