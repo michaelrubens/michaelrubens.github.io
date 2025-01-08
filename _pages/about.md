@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 **Michael Rubens** is an Assistant Professor of Economics at UCLA. He works in the fields of industrial organization and labor economics. 
 
 His research agenda aims to increase the understanding of the drivers and consequences of market power in vertically related industries and on factor markets.  
@@ -18,7 +19,8 @@ Working Papers
 ======
 
 (6) **Welfare Effects of Buyer and Seller Power** (with [Mert Demirer](https://www.mertdemirer.com/))
- 
+
+January 2025
 
 (5) **[Exploiting or Augmenting Labor?](/files/Rubens_Wu_Xu_2024.pdf)**  (with Yingjie Wu and [Mingzhi Xu](https://www.mingzhixu.com/))
 
@@ -59,6 +61,5 @@ In Progress
 Collusion in the U.S. Labor Market (with [Bradley Setzler](https://www.bradleysetzler.com/) and [Chen Yeh](https://sites.google.com/site/chenyeh/) )
 
 Estimating Factor Price Markdowns using Production Models (with Yingjie Wu and [Mingzhi Xu](https://www.mingzhixu.com/))
-
 
 
