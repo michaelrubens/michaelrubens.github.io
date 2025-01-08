@@ -17,6 +17,9 @@ His research agenda aims to increase the understanding of the drivers and conseq
 Working Papers
 ======
 
+(6) **Welfare Effects of Buyer and Seller Power** (with [Mert Demirer](https://www.mertdemirer.com/))
+ 
+
 (5) **[Exploiting or Augmenting Labor?](/files/Rubens_Wu_Xu_2024.pdf)**  (with Yingjie Wu and [Mingzhi Xu](https://www.mingzhixu.com/))
 
 October 2024 
@@ -52,8 +55,6 @@ March 2023 -- _**RAND Journal of Economics**, 54(1), pp. 165-186_
 
 In Progress
 ======
-
-Welfare Effects of Buyer and Seller Power (with [Mert Demirer](https://www.mertdemirer.com/))
 
 Collusion in the U.S. Labor Market (with [Bradley Setzler](https://www.bradleysetzler.com/) and [Chen Yeh](https://sites.google.com/site/chenyeh/) )
 
