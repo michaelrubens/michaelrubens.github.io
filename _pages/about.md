@@ -38,7 +38,7 @@ Published and Accepted Papers
 
 July 2024  --  _Accepted, **Journal of Political Economy**_
 
- [PDF]](/files/JPE_20230028_accepted.pdf){: .btn--research} [Appendix](/files/JPE_20230028_APPENDIX.pdf){: .btn--research}    [Replication](https://doi.org/10.7910/DVN/FG1JSE){: .btn--research}
+ [PDF](/files/JPE_20230028_accepted.pdf){: .btn--research} [Appendix](/files/JPE_20230028_APPENDIX.pdf){: .btn--research}    [Replication](https://doi.org/10.7910/DVN/FG1JSE){: .btn--research}
 
 
 (2) **[Market Structure, Oligopsony Power, and Productivity](/files/AER_2021_0383_main.pdf)**
