@@ -20,7 +20,7 @@ Working Papers
 
 (6) **Welfare Effects of Buyer and Seller Power** (with [Mert Demirer](https://www.mertdemirer.com/))
 
-January 2025
+January 2025 (draft coming soon)
 
 (5) **[Exploiting or Augmenting Labor?](/files/Rubens_Wu_Xu_2024.pdf)**  (with Yingjie Wu and [Mingzhi Xu](https://www.mingzhixu.com/))
 
