@@ -49,7 +49,6 @@ Published and Accepted Papers
   - [Online Appendix](/files/AER_2021_0383_appendix.pdf)  
   - [Replication Package](https://www.openicpsr.org/openicpsr/project/186041/version/V1/view) 
   - [VoxDev Article](https://voxdev.org/topic/agriculture/dominant-buyers-and-rural-development-evidence-china)
-[this](#Buttons){: .btn--research}
 
 (1) **[Management, Productivity, and Technology Choices: Evidence from U.S. Mining Schools](/files/RJE_MS202112696_final.pdf)**
 
