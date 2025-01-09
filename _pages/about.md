@@ -45,11 +45,12 @@ July 2024  --  _Accepted, **Journal of Political Economy**_
 
 September 2023  --  _**American Economic Review**_, _113(9) pp. 2382-2410_
 
- [Online Appendix](/files/AER_2021_0383_appendix.pdf){: .btn--research}  [Replication Package](https://www.openicpsr.org/openicpsr/project/186041/version/V1/view){: .btn--research}  [VoxDev Article]{: .btn--research}(https://voxdev.org/topic/agriculture/dominant-buyers-and-rural-development-evidence-china)
+ [Online Appendix](/files/AER_2021_0383_appendix.pdf){: .btn--research}  [Replication Package](https://www.openicpsr.org/openicpsr/project/186041/version/V1/view){: .btn--research}  [VoxDev Article](https://voxdev.org/topic/agriculture/dominant-buyers-and-rural-development-evidence-china){: .btn--research}
 
 (1) **[Management, Productivity, and Technology Choices: Evidence from U.S. Mining Schools](/files/RJE_MS202112696_final.pdf)**
 
 March 2023 -- _**RAND Journal of Economics**, 54(1), pp. 165-186_ 
+
  [Online Appendix](/files/mining_schools_online_appendix.pdf){: .btn--research}   [Replication Package](https://github.com/michaelrubens/miningschools){: .btn--research}
 
 
