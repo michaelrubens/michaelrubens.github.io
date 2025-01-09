@@ -51,7 +51,7 @@ September 2023  --  _**American Economic Review**_, _113(9) pp. 2382-2410_
 
 March 2023 -- _**RAND Journal of Economics**, 54(1), pp. 165-186_ 
 
-  [PDF]](/files/RJE_MS202112696_final.pdf){: .btn--research} [Appendix](/files/mining_schools_online_appendix.pdf){: .btn--research}   [Replication](https://github.com/michaelrubens/miningschools){: .btn--research}
+  [PDF](/files/RJE_MS202112696_final.pdf){: .btn--research} [Appendix](/files/mining_schools_online_appendix.pdf){: .btn--research}   [Replication](https://github.com/michaelrubens/miningschools){: .btn--research}
 
 
 In Progress
