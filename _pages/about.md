@@ -36,7 +36,7 @@ Published and Accepted Papers
 
 (3) **[Colluding Against Workers](/files/JPE_20230028_accepted.pdf)**  (with [Vincent Delabastita](https://sites.google.com/view/vincentdelabastita/home))
 
-July 2024  --  _Accepted, **Journal of Political Economy**_
+July 2024  --  _Forthcoming, **Journal of Political Economy**_
 
  [PDF](/files/JPE_20230028_accepted.pdf){: .btn--research} [Appendix](/files/JPE_20230028_APPENDIX.pdf){: .btn--research}    [Replication](https://doi.org/10.7910/DVN/FG1JSE){: .btn--research}
 
