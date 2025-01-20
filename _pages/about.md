@@ -20,7 +20,7 @@ Working Papers
 
 (6) **[Welfare Effects of Buyer and Seller Power](/files/demirer_rubens.pdf)** (with [Mert Demirer](https://www.mertdemirer.com/))
 
-January 2025  -- [PDF](/files/demirer_rubens.pdf){: .btn--research}  -- NBER Working Paper 33371
+January 2025  -- [PDF](/files/demirer_rubens.pdf){: .btn--research}  -- NBER Working Paper [33371](https://www.nber.org/papers/w33371)
 
 (5) **[Exploiting or Augmenting Labor?](/files/Rubens_Wu_Xu_2024.pdf)**  (with Yingjie Wu and [Mingzhi Xu](https://www.mingzhixu.com/))
 
@@ -30,7 +30,7 @@ October 2024 -- [PDF](/files/Rubens_Wu_Xu_2024.pdf){: .btn--research} -- _Condit
 
 (4) **[Labor Market Power and Factor-Biased Technology Adoption](/files/Techadoption_paper.pdf)** 
 
-July 2024  -- [PDF](/files/Techadoption_paper.pdf){: .btn--research}  -- NBER Working Paper 30586
+July 2024  -- [PDF](/files/Techadoption_paper.pdf){: .btn--research}  -- NBER Working Paper [30586](https://www.nber.org/papers/w30586)
 
  
 Published and Accepted Papers
