@@ -84,7 +84,7 @@ author:
   avatar           : "pic_miki_bright.jpg" #"ARA_4459_small.JPG" #"pic_miki_square.png"
   bio              : #"Assistant Professor of Economics, UCLA"
   location         : #"Los Angeles, CA"
-  employer         :
+  employer         :  "https://economics.ucla.edu/person/michael-rubens/"
   pubmed           :  
   googlescholar    : "https://scholar.google.be/scholar?hl=en&as_sdt=0%2C5&q=michael+rubens+econ&btnG=&oq=michael+rubens"
   email            : "rubens@econ.ucla.edu"
