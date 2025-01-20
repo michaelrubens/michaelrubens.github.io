@@ -33,7 +33,7 @@ October 2024 -- [PDF](/files/Rubens_Wu_Xu_2024.pdf){: .btn--research} -- _Condit
 July 2024  -- [PDF](/files/Techadoption_paper.pdf){: .btn--research}  -- _NBER Working Paper [30586](https://www.nber.org/papers/w30586)_
 
  
-Published and Accepted Papers
+Publications
 ======
 
 (3) **[Colluding Against Workers](/files/JPE_20230028_accepted.pdf)**  (with [Vincent Delabastita](https://sites.google.com/view/vincentdelabastita/home))
