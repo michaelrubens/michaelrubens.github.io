@@ -18,7 +18,7 @@ His research agenda aims to increase the understanding of the drivers and conseq
 Working Papers
 ======
 
-(6) **Welfare Effects of Buyer and Seller Power** (with [Mert Demirer](https://www.mertdemirer.com/))
+(6) **[Welfare Effects of Buyer and Seller Power](/files/demirer_rubens.pdf)** (with [Mert Demirer](https://www.mertdemirer.com/))
 
 January 2025   
 
