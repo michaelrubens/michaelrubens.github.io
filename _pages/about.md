@@ -24,9 +24,9 @@ January 2025  -- [PDF](/files/demirer_rubens.pdf){: .btn--research}
 
 (5) **[Exploiting or Augmenting Labor?](/files/Rubens_Wu_Xu_2024.pdf)**  (with Yingjie Wu and [Mingzhi Xu](https://www.mingzhixu.com/))
 
-October 2024 -- _Conditionally Accepted, **American Economic Review: Insights**_
+October 2024 -- [PDF](/files/Rubens_Wu_Xu_2024.pdf){: .btn--research} -- _Conditionally Accepted, **American Economic Review: Insights**_
 
-[PDF](/files/Rubens_Wu_Xu_2024.pdf){: .btn--research}
+
 
 (4) **[Labor Market Power and Factor-Biased Technology Adoption](/files/Techadoption_paper.pdf)** 
 
