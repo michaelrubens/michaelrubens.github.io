@@ -12,7 +12,7 @@ redirect_from:
 
 His research agenda aims to increase the understanding of the drivers and consequences of market power in vertically related industries and on factor markets.  
 
-[Curriculum Vitae](/files/cv_michaelrubens.pdf){: .btn--research}  
+[CV](/files/cv_michaelrubens.pdf){: .btn--research}  
 [E-mail](mailto:rubens@econ.ucla.edu){: .btn--research}
 
 Working Papers
