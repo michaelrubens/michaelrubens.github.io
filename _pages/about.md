@@ -62,8 +62,7 @@ March 2023 -- _**RAND Journal of Economics**, 54(1), pp. 165-186_
 In Progress
 ======
 
-Collusion in the U.S. Labor Market (with [Bradley Setzler](https://www.bradleysetzler.com/) and [Chen Yeh](https://sites.google.com/site/chenyeh/) )
+Conduct in U.S. Labor Markets (with [Bradley Setzler](https://www.bradleysetzler.com/) and [Chen Yeh](https://sites.google.com/site/chenyeh/) )
 
-Estimating Factor Price Markdowns using Production Models (with Yingjie Wu and [Mingzhi Xu](https://www.mingzhixu.com/))
-
+ 
 
