@@ -18,14 +18,17 @@ His research agenda aims to increase the understanding of the drivers and conseq
 Working Papers
 ======
 
-(6) **[Welfare Effects of Buyer and Seller Power](/files/demirer_rubens.pdf)** (with [Mert Demirer](https://www.mertdemirer.com/))
+(7) **[Welfare Effects of Buyer and Seller Power](/files/demirer_rubens.pdf)** (with [Mert Demirer](https://www.mertdemirer.com/))
 
 January 2025  -- [PDF](/files/demirer_rubens.pdf){: .btn--research}  -- _NBER Working Paper [33371](https://www.nber.org/papers/w33371)_
+
+(6) **[Estimating Factor Price Markdowns using Production Models](/files/demirer_rubens.pdf)** (with Yingjie Wu and [Mingzhi Xu](https://www.mingzhixu.com/))
+
+February 2025  -- [PDF](/files/rubens_wu_xu_ijio.pdf){: .btn--research} 
 
 (5) **[Exploiting or Augmenting Labor?](/files/Rubens_Wu_Xu_2024.pdf)**  (with Yingjie Wu and [Mingzhi Xu](https://www.mingzhixu.com/))
 
 October 2024 -- [PDF](/files/Rubens_Wu_Xu_2024.pdf){: .btn--research} -- _Conditionally Accepted, **American Economic Review: Insights**_
-
 
 
 (4) **[Labor Market Power and Factor-Biased Technology Adoption](/files/Techadoption_paper.pdf)** 
