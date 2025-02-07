@@ -22,7 +22,7 @@ Working Papers
 
 January 2025  -- [PDF](/files/demirer_rubens.pdf){: .btn--research}  -- _NBER Working Paper [33371](https://www.nber.org/papers/w33371)_
 
-(6) **[Estimating Factor Price Markdowns using Production Models](/files/demirer_rubens.pdf)** (with Yingjie Wu and [Mingzhi Xu](https://www.mingzhixu.com/))
+(6) **[Estimating Factor Price Markdowns using Production Models](/files/rubens_wu_xu_ijio.pdf)** (with Yingjie Wu and [Mingzhi Xu](https://www.mingzhixu.com/))
 
 February 2025  -- [PDF](/files/rubens_wu_xu_ijio.pdf){: .btn--research} 
 
