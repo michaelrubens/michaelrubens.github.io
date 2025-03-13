@@ -26,9 +26,9 @@ February 2025  -- [PDF](/files/demirer_rubens.pdf){: .btn--research}  -- _NBER W
 
 February 2025  -- [PDF](/files/rubens_wu_xu_ijio.pdf){: .btn--research} 
 
-(5) **[Exploiting or Augmenting Labor?](/files/Rubens_Wu_Xu_2024.pdf)**  (with Yingjie Wu and [Mingzhi Xu](https://www.mingzhixu.com/))
+(5) **[Exploiting or Augmenting Labor?](/files/Factorbias_paper.pdf)**  (with Yingjie Wu and [Mingzhi Xu](https://www.mingzhixu.com/))
 
-March 2025 -- [PDF](/files/Rubens_Wu_Xu_2024.pdf){: .btn--research} -- _Conditionally Accepted, **American Economic Review: Insights**_
+March 2025 -- [PDF](/files/Factorbias_paper.pdf){: .btn--research} -- _Conditionally Accepted, **American Economic Review: Insights**_
 
 
 (4) **[Labor Market Power and Factor-Biased Technology Adoption](/files/Techadoption_paper.pdf)** 
