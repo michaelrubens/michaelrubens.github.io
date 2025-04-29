@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
  
-**Michael Rubens** is an Assistant Professor of Economics at UCLA. His research covers topics related to vertical contracting, monopsony/oligopsony power, and firm-level productivity. 
+**Michael Rubens** is an Assistant Professor of Economics at UCLA, working in the field of Industrial Organization. His research covers topics related to vertical contracting, monopsony/oligopsony power, and firm-level productivity. 
 
 
 [CV](/files/cv_michaelrubens.pdf){: .btn--research}  
