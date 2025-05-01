@@ -32,7 +32,7 @@ March 2025 -- [PDF](/files/AERI_2024_0570_final.pdf){: .btn--research}  [Appendi
 
 (4) **[Labor Market Power and Factor-Biased Technology Adoption](/files/Techadoption_paper.pdf)** 
 
-July 2024  -- [PDF](/files/Techadoption_paper.pdf){: .btn--research}  -- [NBER WP]([https://www.nber.org/papers/w33371](https://www.nber.org/papers/w30586)){: .btn--research}  
+July 2024  -- [PDF](/files/Techadoption_paper.pdf){: .btn--research}  -- [NBER WP](https://www.nber.org/papers/w30586){: .btn--research}  
  
 Publications
 ======
