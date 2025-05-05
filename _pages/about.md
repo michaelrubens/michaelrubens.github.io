@@ -23,7 +23,7 @@ February 2025  -- [PDF](/files/demirer_rubens.pdf){: .btn--research}  [NBER WP](
 
 (6) **[Estimating Factor Price Markdowns using Production Models](/files/rubens_wu_xu_ijio.pdf)** (with [Yingjie Wu](https://www.linkedin.com/in/yingjiew/) and [Mingzhi Xu](https://www.mingzhixu.com/))
 
-February 2025  -- [PDF](/files/rubens_wu_xu_ijio.pdf){: .btn--research} 
+February 2025  -- [PDF](/files/rubens_wu_xu_ijio.pdf){: .btn--research} -- _Revise and Resubmit, **International Journal of Industrial Organization** (Special Issue EARIE 2024)_
 
 (5) **[Exploiting or Augmenting Labor?](/files/AERI_2024_0570_final.pdf)**  (with [Yingjie Wu](https://www.linkedin.com/in/yingjiew/) and [Mingzhi Xu](https://www.mingzhixu.com/))
 
