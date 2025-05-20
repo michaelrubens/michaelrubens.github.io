@@ -27,7 +27,7 @@ February 2025  -- [PDF](/files/rubens_wu_xu_ijio.pdf){: .btn--research} -- _Revi
 
 (5) **[Exploiting or Augmenting Labor?](/files/AERI_2024_0570_final.pdf)**  (with [Yingjie Wu](https://www.linkedin.com/in/yingjiew/) and [Mingzhi Xu](https://www.mingzhixu.com/))
 
-March 2025 -- [PDF](/files/AERI_2024_0570_final.pdf){: .btn--research}  [Appendix](/files/AERI_2024_0570_appendix.pdf){: .btn--research} -- _Conditionally Accepted, **American Economic Review: Insights**_
+March 2025 -- [PDF](/files/AERI_2024_0570_final.pdf){: .btn--research}  [Appendix](/files/AERI_2024_0570_appendix.pdf){: .btn--research} -- _Conditionally Accepted Pending Replication, **American Economic Review: Insights**_
 
 
 (4) **[Labor Market Power and Factor-Biased Technology Adoption](/files/Techadoption_paper.pdf)** 
@@ -39,20 +39,21 @@ Publications
 
 (3) **[Colluding Against Workers](/files/JPE_20230028_accepted.pdf)**  (with [Vincent Delabastita](https://sites.google.com/view/vincentdelabastita/home))
 
-June 2025  --  _**Journal of Political Economy**_, _133(6)_
+  _**Journal of Political Economy**_, _133(6)_, June 2025  
 
  [PDF](/files/JPE_20230028_accepted.pdf){: .btn--research} [Appendix](/files/JPE_20230028_APPENDIX.pdf){: .btn--research}    [Replication](https://doi.org/10.7910/DVN/FG1JSE){: .btn--research}
 
 
 (2) **[Market Structure, Oligopsony Power, and Productivity](/files/AER_2021_0383_main.pdf)**
 
-September 2023  --  _**American Economic Review**_, _113(9) pp. 2382-2410_
+ _**American Economic Review**_, _113(9) pp. 2382-2410_, 
+September 2023  
 
  [PDF](/files/AER_2021_0383_main.pdf){: .btn--research}  [Appendix](/files/AER_2021_0383_appendix.pdf){: .btn--research}  [Replication](https://www.openicpsr.org/openicpsr/project/186041/version/V1/view){: .btn--research}  [VoxDev Article](https://voxdev.org/topic/agriculture/dominant-buyers-and-rural-development-evidence-china){: .btn--research}
 
 (1) **[Management, Productivity, and Technology Choices: Evidence from U.S. Mining Schools](/files/RJE_MS202112696_final.pdf)**
 
-March 2023 -- _**RAND Journal of Economics**, 54(1), pp. 165-186_ 
+ _**RAND Journal of Economics**, 54(1), pp. 165-186_ , March 2023 
 
   [PDF](/files/RJE_MS202112696_final.pdf){: .btn--research} [Appendix](/files/mining_schools_online_appendix.pdf){: .btn--research}   [Replication](https://github.com/michaelrubens/miningschools){: .btn--research}
 
