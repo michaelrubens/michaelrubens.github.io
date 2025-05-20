@@ -34,7 +34,7 @@ March 2025 -- [PDF](/files/AERI_2024_0570_final.pdf){: .btn--research}  [Appendi
 
 July 2024  -- [PDF](/files/Techadoption_paper.pdf){: .btn--research}    
  
-Publications
+Published and Forthcoming  
 ======
 
 (3) **[Colluding Against Workers](/files/JPE_20230028_accepted.pdf)**  (with [Vincent Delabastita](https://sites.google.com/view/vincentdelabastita/home))
