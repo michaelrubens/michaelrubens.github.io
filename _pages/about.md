@@ -39,7 +39,7 @@ Published and Forthcoming
 
 (3) **[Colluding Against Workers](/files/JPE_20230028_accepted.pdf)**  (with [Vincent Delabastita](https://sites.google.com/view/vincentdelabastita/home))
 
-  _**Journal of Political Economy**_, _133(6)_, June 2025  
+  _**Journal of Political Economy**_, _133(6) pp. 1796-1839_, June 2025  
 
  [PDF](/files/JPE_20230028_accepted.pdf){: .btn--research} [Appendix](/files/JPE_20230028_APPENDIX.pdf){: .btn--research}    [Replication](https://doi.org/10.7910/DVN/FG1JSE){: .btn--research}
 
