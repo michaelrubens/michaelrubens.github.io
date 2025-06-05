@@ -25,17 +25,19 @@ February 2025  -- [PDF](/files/demirer_rubens.pdf){: .btn--research}  [NBER WP](
 
 February 2025  -- [PDF](/files/rubens_wu_xu_ijio.pdf){: .btn--research} -- _Revise and Resubmit, **International Journal of Industrial Organization** (Special Issue EARIE 2024)_
 
-(5) **[Exploiting or Augmenting Labor?](/files/AERI_2024_0570_final.pdf)**  (with [Yingjie Wu](https://www.linkedin.com/in/yingjiew/) and [Mingzhi Xu](https://www.mingzhixu.com/))
-
-March 2025 -- [PDF](/files/AERI_2024_0570_final.pdf){: .btn--research}  [Appendix](/files/AERI_2024_0570_appendix.pdf){: .btn--research} -- _Conditionally Accepted Pending Replication, **American Economic Review: Insights**_
-
-
-(4) **[Labor Market Power and Factor-Biased Technology Adoption](/files/Techadoption_paper.pdf)** 
+(5) **[Labor Market Power and Factor-Biased Technology Adoption](/files/Techadoption_paper.pdf)** 
 
 July 2024  -- [PDF](/files/Techadoption_paper.pdf){: .btn--research}    
  
-Published and Forthcoming  
+Published and Accepted
 ======
+
+(4) **[Exploiting or Augmenting Labor?](/files/AERI_2024_0570_final.pdf)**  (with [Yingjie Wu](https://www.linkedin.com/in/yingjiew/) and [Mingzhi Xu](https://www.mingzhixu.com/))
+
+_**American Economic Review: Insights**, Conditionally Accepted Pending Replication_, March 2025
+
+[PDF](/files/AERI_2024_0570_final.pdf){: .btn--research}  [Appendix](/files/AERI_2024_0570_appendix.pdf){: .btn--research} 
+
 
 (3) **[Colluding Against Workers](/files/JPE_20230028_accepted.pdf)**  (with [Vincent Delabastita](https://sites.google.com/view/vincentdelabastita/home))
 
