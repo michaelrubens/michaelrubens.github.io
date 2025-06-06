@@ -51,7 +51,7 @@ _**American Economic Review: Insights**, Conditionally Accepted Pending Replicat
  _**American Economic Review**_, _113(9) pp. 2382-2410_, 
 September 2023  
 
- [PDF](/files/AER_2021_0383_main.pdf){: .btn--research}  [Appendix](/files/AER_2021_0383_appendix.pdf){: .btn--research}  [Replication](https://www.openicpsr.org/openicpsr/project/186041/version/V1/view){: .btn--research}  [VoxDev Article](https://voxdev.org/topic/agriculture/dominant-buyers-and-rural-development-evidence-china){: .btn--research}
+ [PDF](/files/AER_2021_0383_main.pdf){: .btn--research}  [Appendix](/files/AER_2021_0383_appendix.pdf){: .btn--research}  [Replication](https://www.openicpsr.org/openicpsr/project/186041/version/V1/view){: .btn--research}  [VoxDev Article](https://voxdev.org/topic/agriculture/dominant-buyers-and-rural-development-evidence-china){: .btn--research} [Chicago Booth Review]([https://voxdev.org/topic/agriculture/dominant-buyers-and-rural-development-evidence-china](https://www.chicagobooth.edu/review/are-employers-playing-game-monopsony)){: .btn--research}
 
 (1) **[Management, Productivity, and Technology Choices: Evidence from U.S. Mining Schools](/files/RJE_MS202112696_final.pdf)**
 
