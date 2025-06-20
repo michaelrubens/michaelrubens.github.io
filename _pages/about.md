@@ -27,7 +27,7 @@ June 2025  -- [PDF](/files/rubens_wu_xu_ijio.pdf){: .btn--research} -- _Resubmit
 
 (5) **[Labor Market Power and Factor-Biased Technology Adoption](/files/Techadoption_paper.pdf)** 
 
-July 2024  -- [PDF](/files/Techadoption_paper.pdf){: .btn--research}    
+June 2025  -- [PDF](/files/Techadoption_paper.pdf){: .btn--research}    
  
 Published and Accepted
 ======
