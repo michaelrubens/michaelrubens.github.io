@@ -21,16 +21,20 @@ Working Papers
 
 February 2025  -- [PDF](/files/demirer_rubens.pdf){: .btn--research}  [NBER WP](https://www.nber.org/papers/w33371){: .btn--research}
 
-(6) **[Estimating Factor Price Markdowns using Production Models](/files/rubens_wu_xu_ijio.pdf)** (with [Yingjie Wu](https://www.linkedin.com/in/yingjiew/) and [Mingzhi Xu](https://www.mingzhixu.com/))
 
-June 2025  -- [PDF](/files/rubens_wu_xu_ijio.pdf){: .btn--research} -- _Resubmitted, **International Journal of Industrial Organization** (Special Issue EARIE 2024)_
-
-(5) **[Labor Market Power and Factor-Biased Technology Adoption](/files/Techadoption_paper.pdf)** 
+(6) **[Labor Market Power and Factor-Biased Technology Adoption](/files/Techadoption_paper.pdf)** 
 
 June 2025  -- [PDF](/files/Techadoption_paper.pdf){: .btn--research}    
  
 Published and Accepted
 ======
+
+(5) **[Estimating Factor Price Markdowns using Production Models](/files/rubens_wu_xu_ijio.pdf)** (with [Yingjie Wu](https://www.linkedin.com/in/yingjiew/) and [Mingzhi Xu](https://www.mingzhixu.com/))
+
+_**International Journal of Industrial Organization** (Special Issue EARIE 2024), Accepted_, June 2025
+
+ [PDF](/files/rubens_wu_xu_ijio.pdf){: .btn--research}  
+
 
 (4) **[Exploiting or Augmenting Labor?](/files/AERI_2024_0570_final.pdf)**  (with [Yingjie Wu](https://www.linkedin.com/in/yingjiew/) and [Mingzhi Xu](https://www.mingzhixu.com/))
 
