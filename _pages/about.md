@@ -31,7 +31,7 @@ Published and Accepted
 
 (5) **[Estimating Factor Price Markdowns using Production Models](/files/rubens_wu_xu_ijio.pdf)** (with [Yingjie Wu](https://www.linkedin.com/in/yingjiew/) and [Mingzhi Xu](https://www.mingzhixu.com/))
 
-_**International Journal of Industrial Organization** (Special Issue EARIE 2024), Accepted_, June 2025
+_**International Journal of Industrial Organization** (Special Issue EARIE), Accepted_, June 2025
 
  [PDF](/files/rubens_wu_xu_ijio.pdf){: .btn--research}  
 
