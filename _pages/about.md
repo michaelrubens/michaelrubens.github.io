@@ -22,7 +22,7 @@ Working Papers
 February 2025  -- [PDF](/files/demirer_rubens.pdf){: .btn--research}  [NBER WP](https://www.nber.org/papers/w33371){: .btn--research}
 
 
-(6) **[Labor Market Power and Factor-Biased Technology Adoption](/files/Techadoption_paper.pdf)** 
+(6) **[Labor-Market Power, Deadweight Loss, and Technology Adoption](/files/Techadoption_paper.pdf)** 
 
 June 2025  -- [PDF](/files/Techadoption_paper.pdf){: .btn--research}    
  
