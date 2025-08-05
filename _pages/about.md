@@ -24,7 +24,7 @@ July 2025  -- [PDF](/files/demirer_rubens.pdf){: .btn--research}  [NBER WP](http
 
 (6) **[Labor-Market Power, Deadweight Loss, and Technology Adoption](/files/Techadoption.pdf)** 
 
-July 2025  -- [PDF](/files/Techadoption.pdf){: .btn--research}    
+August 2025  -- [PDF](/files/Techadoption.pdf){: .btn--research}    
  
 Published and Accepted
 ======
