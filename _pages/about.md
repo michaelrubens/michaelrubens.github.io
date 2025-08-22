@@ -31,14 +31,14 @@ Published and Accepted
 
 (5) **[Estimating Factor Price Markdowns using Production Models](/files/rubens_wu_xu_ijio.pdf)** (with [Yingjie Wu](https://www.linkedin.com/in/yingjiew/) and [Mingzhi Xu](https://www.mingzhixu.com/))
 
-_**International Journal of Industrial Organization** (Special Issue EARIE), Accepted_, June 2025
+_**International Journal of Industrial Organization** (Special Issue EARIE), Forthcoming_, June 2025
 
  [PDF](/files/rubens_wu_xu_ijio.pdf){: .btn--research}  
 
 
 (4) **[Exploiting or Augmenting Labor?](/files/AERI_2024_0570_final.pdf)**  (with [Yingjie Wu](https://www.linkedin.com/in/yingjiew/) and [Mingzhi Xu](https://www.mingzhixu.com/))
 
-_**American Economic Review: Insights**, Accepted_, June 2025
+_**American Economic Review: Insights**, Forthcoming_, June 2025
 
 [PDF](/files/AERI_2024_0570_final.pdf){: .btn--research}  [Appendix](/files/AERI_2024_0570_appendix.pdf){: .btn--research} 
 
