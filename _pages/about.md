@@ -19,7 +19,7 @@ Working Papers
 
 (7) **[Welfare Effects of Buyer and Seller Power](/files/demirer_rubens.pdf)** (with [Mert Demirer](https://www.mertdemirer.com/))
 
-July 2025  -- [PDF](/files/demirer_rubens.pdf){: .btn--research}  [NBER WP](https://www.nber.org/papers/w33371){: .btn--research}
+August 2025  -- [PDF](/files/demirer_rubens.pdf){: .btn--research}  [NBER WP](https://www.nber.org/papers/w33371){: .btn--research}
 
 
 (6) **[Labor-Market Power, Deadweight Loss, and Technology Adoption](/files/Techadoption.pdf)** 
