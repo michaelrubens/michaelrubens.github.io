@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
  
-**Michael Rubens** is an Assistant Professor of Economics at UCLA and a Faculty Research Fellow at the National Bureau of Economic Research. His research is in the field of industrial organization and covers topics related to vertical contracting, monopsony/oligopsony power, and firm productivity. 
+**Michael Rubens** is an Assistant Professor of Economics at UCLA and a Faculty Research Fellow at the National Bureau of Economic Research. His research is in the fields of industrial organization and labor economics, and covers topics related to vertical contracting, monopsony/oligopsony power, and firm productivity. 
 
 
 [CV](/files/cv_michaelrubens.pdf){: .btn--research}  
@@ -68,6 +68,8 @@ In Progress
 ======
 
 Conduct in U.S. Labor Markets (with [Bradley Setzler](https://www.bradleysetzler.com/) and [Chen Yeh](https://sites.google.com/site/chenyeh/) )
+
+Wage Markdowns or Wage Markups? Theory and Evidence from U.S. Public Accountants (with [Bernardo Silveira](http://www.bernardosilveira.net/))  
 
  
 
