@@ -69,7 +69,7 @@ In Progress
 
 Conduct in U.S. Labor Markets (with [Bradley Setzler](https://www.bradleysetzler.com/) and [Chen Yeh](https://sites.google.com/site/chenyeh/) )
 
-Wage Markdowns or Wage Markups? Theory and Evidence from U.S. Public Accountants (with [Bernardo Silveira](http://www.bernardosilveira.net/))  
+Monopsony and Backloaded Compensation: Theory and Evidence from Public Accountants (with [Bernardo Silveira](http://www.bernardosilveira.net/))  
 
  
 
