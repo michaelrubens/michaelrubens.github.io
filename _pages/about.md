@@ -14,6 +14,8 @@ redirect_from:
 [CV](/files/cv_michaelrubens.pdf){: .btn--research}  
 [E-mail](mailto:rubens@econ.ucla.edu){: .btn--research}
 
+**News:**  [Antonio Martner Sota](https://amartner.github.io/) is on the job market, make sure to check him out.  
+
 Working Papers
 ======
 
