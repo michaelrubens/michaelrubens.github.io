@@ -26,7 +26,7 @@ August 2025  -- [PDF](/files/demirer_rubens.pdf){: .btn--research}  [NBER WP](ht
 
 (6) **[Labor-Market Power, Deadweight Loss, and Technology Adoption](/files/Techadoption.pdf)** 
 
-August 2025  -- [PDF](/files/Techadoption.pdf){: .btn--research}    
+August 2025  -- [PDF](/files/Techadoption.pdf){: .btn--research}    _Revise & Resubmit, **Review of Economic Studies**_
  
 Published and Accepted
 ======
