@@ -10,7 +10,7 @@ redirect_from:
  
 **Michael Rubens** is an Assistant Professor of Economics at UCLA. His research is in the fields of industrial organization and labor economics, and covers topics related to vertical contracting, monopsony/oligopsony power, and firm productivity. 
 
-He is also a Faculty Research Fellow at the National Bureau of Economic Research (NBER), a Research Affiliate at the Centre for Economic Policy Research (CEPR), and an Associate Editor of the  _Journal of the European Economic Association_ (starting January 1, 2026).
+He is also a Faculty Research Fellow at the National Bureau of Economic Research, a Research Affiliate at the Centre for Economic Policy Research, and an Associate Editor of the  _Journal of the European Economic Association_ (starting January 1, 2026).
 
 
 [CV](/files/cv_michaelrubens.pdf){: .btn--research}  
