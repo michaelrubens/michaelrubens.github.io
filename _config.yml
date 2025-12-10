@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US" 
-title                    : "Home"
+title                    : "Michael Rubens"
 title_separator          : "-"
 name                     : &name "Michael Rubens"
 description              : &description "Academic webpage of Michael Rubens"
