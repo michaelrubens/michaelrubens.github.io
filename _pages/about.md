@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
  
-Welcome to my website. I am an Assistant Professor of Economics at  [UCLA](https://economics.ucla.edu/). My research is in the fields of industrial organization and labor economics, and covers topics related to vertical contracting, monopsony/oligopsony power, and firm productivity. 
+I am an Assistant Professor of Economics at  [UCLA](https://economics.ucla.edu/). My research is in the fields of industrial organization and labor economics, and covers topics related to vertical contracting, monopsony/oligopsony power, and firm productivity. 
 
 I am also a Faculty Research Fellow at the [NBER](https://www.nber.org/), a Research Affiliate at the [CEPR](https://www.cepr.org/), and an Associate Editor at the  [_Journal of the European Economic Association_](https://academic.oup.com/jeea) (starting January 1, 2026).
 
