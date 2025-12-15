@@ -43,7 +43,7 @@ _**American Economic Review: Insights**, Forthcoming_, June 2025
 
 (4) **[Estimating Factor Price Markdowns using Production Models](/files/rubens_wu_xu_ijio.pdf)** (with [Yingjie Wu](https://www.linkedin.com/in/yingjiew/) and [Mingzhi Xu](https://www.mingzhixu.com/))
 
-_**International Journal of Industrial Organization** , 102(103177)_, September 2025 (Special Issue EARIE)
+_**International Journal of Industrial Organization** , 102_, September 2025 (Special Issue EARIE)
 
  [PDF](/files/rubens_wu_xu_ijio.pdf){: .btn--research}  
 
