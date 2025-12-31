@@ -10,7 +10,7 @@ redirect_from:
  
 I am an Assistant Professor of Economics at  [UCLA](https://economics.ucla.edu/). My research is in industrial organization  and labor economics, and covers topics related to vertical contracting, monopsony/oligopsony power, and firm productivity. 
 
-I am also a Faculty Research Fellow at the [NBER](https://www.nber.org/), a Research Affiliate at the [CEPR](https://www.cepr.org/), and an Associate Editor at the  [_Journal of the European Economic Association_](https://academic.oup.com/jeea) (starting January 1, 2026).
+I am also a Faculty Research Fellow at the [NBER](https://www.nber.org/), a Research Affiliate at the [CEPR](https://www.cepr.org/), and an Associate Editor at the  [_Journal of the European Economic Association_](https://academic.oup.com/jeea).
 
 
 [Curriculum Vitae](/files/cv_michaelrubens.pdf){: .btn--research}    [Research Statement](/files/research_statement_michaelrubens_public.pdf){: .btn--research}    [E-mail](mailto:rubens@econ.ucla.edu){: .btn--research}
