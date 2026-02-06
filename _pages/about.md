@@ -15,8 +15,6 @@ I am also a Faculty Research Fellow at the [NBER](https://www.nber.org/), a Rese
 
 [Curriculum Vitae](/files/cv_michaelrubens.pdf){: .btn--research}    [Research Statement](/files/research_statement_michaelrubens_public.pdf){: .btn--research}    [E-mail](mailto:rubens@econ.ucla.edu){: .btn--research}
 
-**News:**  [Antonio Martner Sota](https://amartner.github.io/) is on the job market, make sure to check him out.  
-
 Working Papers
 ======
 
