@@ -35,7 +35,7 @@ Published and Accepted
 
 (5) **[Exploiting or Augmenting Labor?](/files/AERI_2024_0570_final.pdf)**  (with [Yingjie Wu](https://www.linkedin.com/in/yingjiew/) and [Mingzhi Xu](https://www.mingzhixu.com/))
 
-_**American Economic Review: Insights**, _8(1) pp. 72–89_, March 2026
+_**American Economic Review: Insights**, 8(1) pp. 72–89_, March 2026
 
 [PDF](/files/AERI_2024_0570_final.pdf){: .btn--research}  [Appendix](/files/AERI_2024_0570_appendix.pdf){: .btn--research} 
 
