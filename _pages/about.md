@@ -18,6 +18,10 @@ I am also a Faculty Research Fellow at the [NBER](https://www.nber.org/), a Rese
 Working Papers
 ======
 
+(8) **[Monopsony and Backloaded Compensation: Theory and Evidence from Public Accountants]()** (with [Bernardo Silveira](http://www.bernardosilveira.net/))
+
+May 2026  --  draft available soon 
+
 (7) **[Welfare Effects of Buyer and Seller Power](/files/demirer_rubens.pdf)** (with [Mert Demirer](https://www.mertdemirer.com/))
 
 August 2025  -- [PDF](/files/demirer_rubens.pdf){: .btn--research}  [NBER WP](https://www.nber.org/papers/w33371){: .btn--research}
@@ -72,7 +76,7 @@ In Progress
 
 Conduct in U.S. Labor Markets (with [Bradley Setzler](https://www.bradleysetzler.com/) and [Chen Yeh](https://sites.google.com/site/chenyeh/) )
 
-Monopsony and Backloaded Compensation: Theory and Evidence from Public Accountants (with [Bernardo Silveira](http://www.bernardosilveira.net/))  
+
 
  
 
