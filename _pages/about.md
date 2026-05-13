@@ -20,7 +20,7 @@ Working Papers
 
 (8) **[Monopsony and Backloaded Compensation: Theory and Evidence from Public Accountants]()** (with [Bernardo Silveira](http://www.bernardosilveira.net/))
 
-May 2026  --  draft available soon 
+May 2026  --  draft available on request
 
 (7) **[Welfare Effects of Buyer and Seller Power](/files/demirer_rubens.pdf)** (with [Mert Demirer](https://www.mertdemirer.com/))
 
