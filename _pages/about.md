@@ -18,7 +18,11 @@ I am also a Faculty Research Fellow at the [NBER](https://www.nber.org/), a Rese
 Working Papers
 ======
 
-(8) **[Monopsony and Backloaded Compensation: Theory and Evidence from Public Accountants]()** (with [Bernardo Silveira](http://www.bernardosilveira.net/))
+(9) **Conduct in U.S. Labor Markets** (with [Bradley Setzler](https://www.bradleysetzler.com/) and [Chen Yeh](https://sites.google.com/site/chenyeh/) )
+
+May 2026 -- available to present
+
+(8) **Monopsony and Backloaded Compensation: Theory and Evidence from Public Accountants** (with [Bernardo Silveira](http://www.bernardosilveira.net/))
 
 May 2026  --  draft available on request
 
@@ -71,11 +75,7 @@ September 2023
   [PDF](/files/RJE_MS202112696_final.pdf){: .btn--research} [Appendix](/files/mining_schools_online_appendix.pdf){: .btn--research}   [Replication](https://github.com/michaelrubens/miningschools){: .btn--research}
 
 
-In Progress
-======
-
-Conduct in U.S. Labor Markets (with [Bradley Setzler](https://www.bradleysetzler.com/) and [Chen Yeh](https://sites.google.com/site/chenyeh/) )
-
+ 
 
 
  
