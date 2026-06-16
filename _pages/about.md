@@ -24,7 +24,7 @@ May 2026 -- available to present
 
 (8) **[Monopsony and Backloaded Compensation: Theory and Evidence from Public Accountants]((/files/markdown_dynamics_june2026.pdf))** (with [Bernardo Silveira](http://www.bernardosilveira.net/))
 
-May 2026  --  draft available on request
+June 2026   
 
 (7) **[Welfare Effects of Buyer and Seller Power](/files/demirer_rubens.pdf)** (with [Mert Demirer](https://www.mertdemirer.com/))
 
