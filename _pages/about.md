@@ -22,7 +22,7 @@ Working Papers
 
 May 2026 -- available to present
 
-(8) **Monopsony and Backloaded Compensation: Theory and Evidence from Public Accountants** (with [Bernardo Silveira](http://www.bernardosilveira.net/))
+(8) **[Monopsony and Backloaded Compensation: Theory and Evidence from Public Accountants]((/files/markdown_dynamics_june2026.pdf))** (with [Bernardo Silveira](http://www.bernardosilveira.net/))
 
 May 2026  --  draft available on request
 
