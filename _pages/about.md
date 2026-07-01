@@ -13,7 +13,7 @@ I am an Associate Professor of Economics at [Boston College](https://www.bc.edu/
 I am also a Faculty Research Fellow at the [NBER](https://www.nber.org/), a Research Affiliate at the [CEPR](https://www.cepr.org/), and an Associate Editor at the  [_Journal of the European Economic Association_](https://academic.oup.com/jeea).
 
 
-[Curriculum Vitae](/files/cv_michaelrubens.pdf){: .btn--research}    [Research Statement](/files/research_statement_michaelrubens_public.pdf){: .btn--research}    [E-mail](mailto:michael.a.rubens@gmail.com){: .btn--research}
+[Curriculum Vitae](/files/cv_michaelrubens.pdf){: .btn--research}       [E-mail](mailto:michael.a.rubens@gmail.com){: .btn--research}
 
 Working Papers
 ======
