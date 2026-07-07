@@ -28,7 +28,7 @@ July 2026    -- [PDF](/files/Markdown_dynamics_July2026.pdf){: .btn--research}
 
 (7) **[Welfare Effects of Buyer and Seller Power](/files/demirer_rubens.pdf)** (with [Mert Demirer](https://www.mertdemirer.com/))
 
-August 2025  -- [PDF](/files/demirer_rubens.pdf){: .btn--research}  [NBER WP](https://www.nber.org/papers/w33371){: .btn--research}
+June 2026  -- [PDF](/files/demirer_rubens.pdf){: .btn--research}  [NBER WP](https://www.nber.org/papers/w33371){: .btn--research}
 
 
 (6) **[Labor-Market Power, Deadweight Loss, and Technology Adoption](/files/Techadoption.pdf)** 
