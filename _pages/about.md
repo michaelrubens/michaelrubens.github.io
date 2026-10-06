@@ -45,7 +45,7 @@ Published and Accepted
 
 _**American Economic Review: Insights**, 8(1) pp. 72–89_, March 2026
 
-[PDF](/files/AERI_2024_0570_final.pdf){: .btn--research}  [Appendix](/files/AERI_2024_0570_appendix.pdf){: .btn--research} 
+[PDF](/files/AERI_2024_0570_final.pdf){: .btn--research}  [Appendix](/files/AERI_2024_0570_appendix.pdf){: .btn--research} [Replication](https://doi.org/10.3886/E227422V1){: .btn--research}
 
 (4) **[Estimating Factor Price Markdowns using Production Models](/files/rubens_wu_xu_ijio.pdf)** (with [Yingjie Wu](https://www.linkedin.com/in/yingjiew/) and [Mingzhi Xu](https://www.mingzhixu.com/))
 
