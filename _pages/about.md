@@ -37,7 +37,7 @@ August 2026   -- [PDF](/files/demirer_rubens.pdf){: .btn--research}  [NBER WP](h
 
  _Revise & Resubmit, **Review of Economic Studies**_
  
- August 2025  -- [PDF](/files/Techadoption.pdf){: .btn--research}  [NBER WP](https://www.nber.org/papers/w30586){: .btn--research}  
+ November 2026  -- [PDF](/files/Techadoption.pdf){: .btn--research}  [NBER WP](https://www.nber.org/papers/w30586){: .btn--research}  
  
 Published and Accepted
 ======
